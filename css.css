@@ -1,0 +1,26 @@
+
+div{
+    border-style: dashed;
+    border: 1px solid gray;
+    margin: auto;
+    margin-top: 10%;
+    padding: 2%;
+    width: 70%;
+}
+button{
+    cursor: pointer;
+    border: none;
+    border-radius: 25Px;
+}
+button:hover{
+    font-size: large;
+}
+#start{
+    background-color: rgb(115, 117, 207);
+}
+#stop{
+    background-color: tomato;
+}
+#reset{
+    background-color: yellowgreen;
+}
